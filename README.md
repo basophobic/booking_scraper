@@ -13,4 +13,4 @@ All data are saved in a json format file for further processing.
 
 ## Parameters
 num_of_hotels: the total number of hotels to scrap data from
-max_num_of_reviews: the maximum number of review comments to be saved (for some well-known hotels, there are over 5K reviews)
+max_num_of_reviews: the maximum number of pages with review comments to be saved (for some well-known hotels, there are over 5K reviews)
